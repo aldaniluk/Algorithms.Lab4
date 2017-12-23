@@ -53,7 +53,7 @@
       <Project>{5aaa38c0-1b38-47d4-a0fb-98c0b1ebd788}</Project>
       <Name>GraphView</Name>
     </ProjectReference>
-    <ProjectReference Include="..\KruskalAlgorithm\Algorithms.csproj">
+    <ProjectReference Include="..\Algorithms\Algorithms.csproj">
       <Project>{30c17409-64c7-4660-ac2c-577f2d66f3d5}</Project>
       <Name>Algorithms</Name>
     </ProjectReference>
